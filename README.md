@@ -1,0 +1,2 @@
+# AI-ENABLED-MORPHED-IMAGE-DETECTION-AND-DIGITAL-FORENSIC-ANALYSIS-IN-SECURE-WEB-SYSTEMS
+The proposed AI-enabled system detects morphed and forged regions in digital images with 93% accuracy, overcoming the limitations of manual detection methods. It provides reliable forensic evidence to enhance security on digital platforms and can be further improved using deep learning for real-time, large-scale applications.
